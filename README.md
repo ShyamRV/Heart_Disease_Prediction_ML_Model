@@ -54,9 +54,3 @@ Random Forest achieved the best performance with very high accuracy and ROC-AUC 
 The **Random Forest model** achieved outstanding performance, making it a strong candidate for assisting in medical diagnosis.  
 However, results should be validated on larger, real-world datasets to ensure generalization.  
 
----
-
-## 📌 How to Run
-### Option 1: Run as Python Script
-```bash
-python Heart_Disease_Prediction_ML_Model.py --data path/to/heart.csv
